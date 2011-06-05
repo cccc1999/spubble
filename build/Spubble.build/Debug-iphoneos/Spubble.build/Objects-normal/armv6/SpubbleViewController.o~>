@@ -1,0 +1,10 @@
+/Users/breath/Desktop/Spubble-4-1/Classes/SpubbleViewController.m:21: error: expected ';' before '-' token
+/Users/breath/Desktop/Spubble-4-1/Classes/SpubbleViewController.m:293: warning: '@end' missing in implementation context
+/Users/breath/Desktop/Spubble-4-1/Classes/SpubbleViewController.m:293: warning: incomplete implementation of class 'SpubbleViewController'
+/Users/breath/Desktop/Spubble-4-1/Classes/SpubbleViewController.m:293: warning: method definition for '-deleteView1:' not found
+/Users/breath/Desktop/Spubble-4-1/Classes/SpubbleViewController.m:293: warning: method definition for '-deleteView:' not found
+/Users/breath/Desktop/Spubble-4-1/Classes/SpubbleViewController.m:293: warning: method definition for '-playa1:' not found
+/Users/breath/Desktop/Spubble-4-1/Classes/SpubbleViewController.m:293: warning: method definition for '-playButton:' not found
+/Users/breath/Desktop/Spubble-4-1/Classes/SpubbleViewController.m:293: warning: method definition for '-addToBubble1:' not found
+/Users/breath/Desktop/Spubble-4-1/Classes/SpubbleViewController.m:293: warning: method definition for '-switchToSelectedView:' not found
+/Users/breath/Desktop/Spubble-4-1/Classes/SpubbleViewController.m:293: warning: method definition for '-switchToHome:' not found

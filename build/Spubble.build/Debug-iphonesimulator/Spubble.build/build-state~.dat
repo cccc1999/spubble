@@ -1,0 +1,1257 @@
+TSpubble
+v7
+r0
+t309578978.252019
+cCheck dependencies
+cProcessInfoPlistFile /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Info.plist Spubble-Info.plist
+cCompileXIB /Users/Varun/Desktop/Spubble/MainWindow.xib
+cCompileXIB /Users/Varun/Desktop/Spubble/SpubbleViewController.xib
+cCpResource build/Debug-iphonesimulator/Spubble.app/spubble_speech_balloon.png spubble_speech_balloon.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/spubble_playbutton.png spubble_playbutton.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/spubble_top_half.png spubble_top_half.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/spubble_icon_curtain.png spubble_icon_curtain.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/spubble_name.png spubble_name.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/spubble_homebutton.png spubble_homebutton.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Food.png Food.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Health.png Health.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Places.png Places.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Articles.png Articles.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Prepositions.png Prepositions.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Animals.png Animals.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Shapes.png Shapes.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Alphabets.png Alphabets.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Sports.png Sports.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Entertainment.png Entertainment.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Romance.png Romance.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Pronouns.png Pronouns.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Vegetables.png Vegetables.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Fruits.png Fruits.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Pronouns2.png Pronouns2.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Toys.png Toys.png
+cCpResource build/Debug-iphonesimulator/Spubble.app/Pronouns1.png Pronouns1.png
+cProcessPCH /var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch.gch Spubble_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/main.o /Users/Varun/Desktop/Spubble/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SpubbleAppDelegate.o /Users/Varun/Desktop/Spubble/Classes/SpubbleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SpubbleViewController.o /Users/Varun/Desktop/Spubble/Classes/SpubbleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble normal i386
+cGenerateDSYMFile /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app.dSYM /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble
+cTouch /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/Varun/Desktop/Spubble/.png
+c000000004CC3887700000000000019CD
+t1287882871
+s6605
+
+N/Users/Varun/Desktop/Spubble/Alphabets.png
+c000000004CC3886D00000000000026B1
+t1287882861
+s9905
+
+N/Users/Varun/Desktop/Spubble/Animals.png
+c000000004CC388700000000000001D8D
+t1287882864
+s7565
+
+N/Users/Varun/Desktop/Spubble/App Store.png
+c000000004CC3887700000000000019CD
+t1287882871
+s6605
+
+N/Users/Varun/Desktop/Spubble/Articles.png
+c000000004CC387DC000000000000221D
+t1287882716
+s8733
+
+N/Users/Varun/Desktop/Spubble/ChildView.xib
+c000000004CC3832B000000000000535A
+t1287881515
+s21338
+
+N/Users/Varun/Desktop/Spubble/Classes/../DrapnDropViewController.m
+c000000004CC31A69000000000000062A
+t1287854697
+s1578
+i"DrapnDropViewController.h"
+
+N/Users/Varun/Desktop/Spubble/Classes/DragnDropView.xib
+c000000004CC37989000000000000B644
+t1287879049
+s46660
+
+N/Users/Varun/Desktop/Spubble/Classes/DragnDropViewController.h
+c000000004CC37CF100000000000001BB
+t1287879921
+s443
+i<UIKit/UIKit.h>
+
+N/Users/Varun/Desktop/Spubble/Classes/DragnDropViewController.m
+c000000004CC37CFE0000000000000A9D
+t1287879934
+s2717
+i"DragnDropViewController.h"
+
+N/Users/Varun/Desktop/Spubble/Classes/FoodViewController.h
+c000000004CC253FA000000000000010E
+t1287803898
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Varun/Desktop/Spubble/Classes/FoodViewController.m
+c000000004CC2F7570000000000000717
+t1287845719
+s1815
+i"FoodViewController.h"
+
+N/Users/Varun/Desktop/Spubble/Classes/SportsView.xib
+c000000004CC273500000000000004EC0
+t1287811920
+s20160
+
+N/Users/Varun/Desktop/Spubble/Classes/SportsViewController.h
+c000000004CC258A90000000000000112
+t1287805097
+s274
+i<UIKit/UIKit.h>
+
+N/Users/Varun/Desktop/Spubble/Classes/SportsViewController.m
+c000000004CC2F7730000000000000721
+t1287845747
+s1825
+i"SportsViewController.h"
+
+N/Users/Varun/Desktop/Spubble/Classes/SpubbleAppDelegate.h
+c000000004CC37EB700000000000001E0
+t1287880375
+s480
+i<UIKit/UIKit.h>
+
+N/Users/Varun/Desktop/Spubble/Classes/SpubbleAppDelegate.m
+c000000004CC37F810000000000000A8E
+t1287880577
+s2702
+i"SpubbleAppDelegate.h"
+i"SpubbleViewController.h"
+
+N/Users/Varun/Desktop/Spubble/Classes/SpubbleViewController.h
+c000000004CC3935300000000000002A2
+t1287885651
+s674
+i<UIKit/UIKit.h>
+
+N/Users/Varun/Desktop/Spubble/Classes/SpubbleViewController.m
+c000000004CC394D500000000000007C8
+t1287886037
+s1992
+i"SpubbleViewController.h"
+
+N/Users/Varun/Desktop/Spubble/Default.png
+c000000004CC361E40000000000007FC9
+t1287872996
+s32713
+
+N/Users/Varun/Desktop/Spubble/Defauly.png
+c000000004CC361E40000000000007FC9
+t1287872996
+s32713
+
+N/Users/Varun/Desktop/Spubble/Dinner Dash.png
+c000000004CC387E00000000000002259
+t1287882720
+s8793
+
+N/Users/Varun/Desktop/Spubble/DragnDropView.xib
+c000000004CC3181200000000000056F8
+t1287854098
+s22264
+
+N/Users/Varun/Desktop/Spubble/DrapnDropViewController.h
+c000000004CC31A6900000000000000F3
+t1287854697
+s243
+i<UIKit/UIKit.h>
+
+N/Users/Varun/Desktop/Spubble/DrapnDropViewController.m
+c000000004CC31A69000000000000062A
+t1287854697
+s1578
+i"DrapnDropViewController.h"
+
+N/Users/Varun/Desktop/Spubble/Entertainment.png
+c000000004CC3887B000000000000200C
+t1287882875
+s8204
+
+N/Users/Varun/Desktop/Spubble/Evernote.png
+c000000004CC387CA000000000000194C
+t1287882698
+s6476
+
+N/Users/Varun/Desktop/Spubble/Five Dice.png
+c000000004CC387D20000000000002087
+t1287882706
+s8327
+
+N/Users/Varun/Desktop/Spubble/Food.png
+c000000004CC387CA000000000000194C
+t1287882698
+s6476
+
+N/Users/Varun/Desktop/Spubble/FoodView.xib
+c000000004CC273800000000000004EB9
+t1287811968
+s20153
+
+N/Users/Varun/Desktop/Spubble/Fruits.png
+c000000004CC388870000000000001E72
+t1287882887
+s7794
+
+N/Users/Varun/Desktop/Spubble/Gadgets.png
+c000000004CC3887700000000000019CD
+t1287882871
+s6605
+
+N/Users/Varun/Desktop/Spubble/Games.png
+c000000004CC388700000000000001D8D
+t1287882864
+s7565
+
+N/Users/Varun/Desktop/Spubble/Genesis4iphone.png
+c000000004CC388870000000000001E72
+t1287882887
+s7794
+
+N/Users/Varun/Desktop/Spubble/Health.png
+c000000004CC387D20000000000002087
+t1287882706
+s8327
+
+N/Users/Varun/Desktop/Spubble/Installer.png
+c000000004CC3886700000000000019FA
+t1287882855
+s6650
+
+N/Users/Varun/Desktop/Spubble/MainWindow.xib
+c000000004CC2462D0000000000004E29
+t1287800365
+s20009
+
+N/Users/Varun/Desktop/Spubble/Monkey Ball.png
+c000000004CC387DC000000000000221D
+t1287882716
+s8733
+
+N/Users/Varun/Desktop/Spubble/Music.png
+c000000004CC387D60000000000001BFB
+t1287882710
+s7163
+
+N/Users/Varun/Desktop/Spubble/Places.png
+c000000004CC387D60000000000001BFB
+t1287882710
+s7163
+
+N/Users/Varun/Desktop/Spubble/Prepositions.png
+c000000004CC387E00000000000002259
+t1287882720
+s8793
+
+N/Users/Varun/Desktop/Spubble/Pronouns.png
+c000000004CC3887E0000000000001902
+t1287882878
+s6402
+
+N/Users/Varun/Desktop/Spubble/Pronouns1.png
+c000000004CC38C2C0000000000000C41
+t1287883820
+s3137
+
+N/Users/Varun/Desktop/Spubble/Pronouns2.png
+c000000004CC3887700000000000019CD
+t1287882871
+s6605
+
+N/Users/Varun/Desktop/Spubble/Romance.png
+c000000004CC388740000000000001FC3
+t1287882868
+s8131
+
+N/Users/Varun/Desktop/Spubble/SB 2 Lite.png
+c000000004CC388820000000000001CF7
+t1287882882
+s7415
+
+N/Users/Varun/Desktop/Spubble/Safari.png
+c000000004CC388740000000000001FC3
+t1287882868
+s8131
+
+N/Users/Varun/Desktop/Spubble/Shapes.png
+c000000004CC3886700000000000019FA
+t1287882855
+s6650
+
+N/Users/Varun/Desktop/Spubble/Soccer 09.png
+c000000004CC388620000000000002872
+t1287882850
+s10354
+
+N/Users/Varun/Desktop/Spubble/Splash.png
+c000000004CC361E40000000000007FC9
+t1287872996
+s32713
+
+N/Users/Varun/Desktop/Spubble/Sports.png
+c000000004CC388620000000000002872
+t1287882850
+s10354
+
+N/Users/Varun/Desktop/Spubble/SpubbleViewController.xib
+c000000004CC39558000000000000FEF9
+t1287886168
+s65273
+
+N/Users/Varun/Desktop/Spubble/Spubble_Prefix.pch
+c000000004CC2462D00000000000000B7
+t1287800365
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Varun/Desktop/Spubble/Star War.png
+c000000004CC3887B000000000000200C
+t1287882875
+s8204
+
+N/Users/Varun/Desktop/Spubble/Toys.png
+c000000004CC389FB0000000000001349
+t1287883259
+s4937
+
+N/Users/Varun/Desktop/Spubble/Vegetables.png
+c000000004CC388820000000000001CF7
+t1287882882
+s7415
+
+N/Users/Varun/Desktop/Spubble/baseball-glove-600.gif
+c000000004CC261DF00000000000010B9
+t1287807455
+s4281
+
+N/Users/Varun/Desktop/Spubble/baseball-glove-600.png
+c000000004CC262050000000000001A4A
+t1287807493
+s6730
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app
+t1287886178
+s1054
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app.dSYM
+t1287886178
+s102
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Alphabets.png
+t1287886175
+s9905
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Animals.png
+t1287886175
+s7565
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/App Store.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Articles.png
+t1287886175
+s8733
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/ChildView.nib
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Default.png
+t1287886175
+s32713
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Defauly.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Dinner Dash.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/DragnDropView.nib
+t1287879057
+s7420
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Entertainment.png
+t1287886175
+s8204
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Evernote.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Five Dice.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Food.png
+t1287886175
+s6476
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/FoodView.nib
+t1287811975
+s3146
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Fruits.png
+t1287886175
+s7794
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Gadgets.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Games.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Genesis4iphone.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Health.png
+t1287886175
+s8327
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Info.plist
+t1287886175
+s618
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Installer.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/MainWindow.nib
+t1287886175
+s1681
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Monkey Ball.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Music.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/PkgInfo
+t1287886175
+s8
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Places.png
+t1287886175
+s7163
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Prepositions.png
+t1287886175
+s8793
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Pronouns.png
+t1287886175
+s6402
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Pronouns1.png
+t1287886175
+s3137
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Pronouns2.png
+t1287886175
+s6605
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Romance.png
+t1287886175
+s8131
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/SB 2 Lite.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Safari.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Shapes.png
+t1287886175
+s6650
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Soccer 09.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Splash.png
+t1287873775
+s32713
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Sports.png
+t1287886175
+s10354
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/SportsView.nib
+t1287811975
+s3151
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble
+t1287886178
+s19160
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/SpubbleViewController.nib
+t1287886175
+s10370
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Star War.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Toys.png
+t1287886175
+s4937
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Vegetables.png
+t1287886175
+s7415
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/baseball-glove-600.gif
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/baseball-glove-600.png
+t1287807609
+s6730
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/food2.jpeg
+t1287802441
+s199506
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/fring.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/iQuran.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/imgres.jpeg
+t1287802441
+s9290
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/muffin1.png
+t1287807609
+s8299
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/spubble_fake_icon_bigwheel.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/spubble_fake_icon_i_want.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/spubble_homebutton.png
+t1287886175
+s7134
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/spubble_icon_curtain.png
+t1287886175
+s10675
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/spubble_icon_curtain2.png
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/spubble_name.png
+t1287886175
+s28159
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/spubble_playbutton.png
+t1287886175
+s6997
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/spubble_speech_balloon.png
+t1287886175
+s8310
+
+N/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/spubble_top_half.png
+t1287886175
+s17696
+
+N/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/DragnDropViewController.o
+t1287872549
+s42628
+
+N/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/DrapnDropViewController.o
+t2
+s0
+
+N/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/FoodViewController.o
+t1287845731
+s36700
+
+N/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SportsViewController.o
+t1287853707
+s36756
+
+N/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/Spubble.LinkFileList
+c000000004CC3955F000000000000016F
+t1287886175
+s367
+
+N/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SpubbleAppDelegate.o
+t1287886178
+s47904
+
+N/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SpubbleViewController.o
+t1287886178
+s42248
+
+N/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/main.o
+t1287886178
+s6284
+
+N/Users/Varun/Desktop/Spubble/food2.jpeg
+c000000004CC23F680000000000030B52
+t1287798632
+s199506
+
+N/Users/Varun/Desktop/Spubble/fring.png
+c000000004CC3887E0000000000001902
+t1287882878
+s6402
+
+N/Users/Varun/Desktop/Spubble/iQuran.png
+c000000004CC3886D00000000000026B1
+t1287882861
+s9905
+
+N/Users/Varun/Desktop/Spubble/imgres.jpeg
+c000000004CC23F10000000000000244A
+t1287798544
+s9290
+
+N/Users/Varun/Desktop/Spubble/main.m
+c000000004CC2462D000000000000016A
+t1287800365
+s362
+i<UIKit/UIKit.h>
+
+N/Users/Varun/Desktop/Spubble/muffin1.png
+c000000004CC260DB000000000000206B
+t1287807195
+s8299
+
+N/Users/Varun/Desktop/Spubble/spubble_fake_icon_bigwheel.png
+c000000004CC389FB0000000000001349
+t1287883259
+s4937
+
+N/Users/Varun/Desktop/Spubble/spubble_fake_icon_i_want.png
+c000000004CC38C2C0000000000000C41
+t1287883820
+s3137
+
+N/Users/Varun/Desktop/Spubble/spubble_homebutton.png
+c000000004CC35EC20000000000001BDE
+t1287872194
+s7134
+
+N/Users/Varun/Desktop/Spubble/spubble_icon_curtain.png
+c000000004CC36E7600000000000029B3
+t1287876214
+s10675
+
+N/Users/Varun/Desktop/Spubble/spubble_icon_curtain2.png
+c000000004CC36E7600000000000029B3
+t1287876214
+s10675
+
+N/Users/Varun/Desktop/Spubble/spubble_name.png
+c000000004CC36EED0000000000006DFF
+t1287876333
+s28159
+
+N/Users/Varun/Desktop/Spubble/spubble_playbutton.png
+c000000004CC35EBD0000000000001B55
+t1287872189
+s6997
+
+N/Users/Varun/Desktop/Spubble/spubble_speech_balloon.png
+c000000004CC357F80000000000002076
+t1287870456
+s8310
+
+N/Users/Varun/Desktop/Spubble/spubble_top_half.png
+c000000004CC36AF90000000000004520
+t1287875321
+s17696
+
+N/var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch.gch
+t1287886177
+s15211536
+
+NSpubble-Info.plist
+c000000004CC36C8300000000000003EE
+t1287875715
+s1006
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309578975#309578975#0(0"0(0#1#0"8617312256#0"0#
+
+CCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/DragnDropViewController.o /Users/Varun/Desktop/Spubble/Classes/DragnDropViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309565348.864372
+e309565349.058314
+r1
+xCompileC
+xbuild/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/DragnDropViewController.o
+x/Users/Varun/Desktop/Spubble/Classes/DragnDropViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Varun/Desktop/Spubble/Classes/DragnDropViewController.m309565348#309565349#0(0"0(0#0#62"/Users/Varun/Desktop/Spubble/Classes/DragnDropViewController.m8637480928#1850"    cd /Users/Varun/Desktop/Spubble    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-generated-files.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-own-target-headers.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-all-target-headers.hmap -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-project-headers.hmap -F/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator -I/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/include -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources/i386 -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources -include /var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch -c /Users/Varun/Desktop/Spubble/Classes/DragnDropViewController.m -o /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/DragnDropViewController.o0#
+
+CCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/DrapnDropViewController.o /Users/Varun/Desktop/Spubble/Classes/../DrapnDropViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/DrapnDropViewController.o /Users/Varun/Desktop/Spubble/DrapnDropViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/FoodViewController.o /Users/Varun/Desktop/Spubble/Classes/FoodViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309538531.157138
+e309538531.347254
+r1
+xCompileC
+xbuild/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/FoodViewController.o
+x/Users/Varun/Desktop/Spubble/Classes/FoodViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Varun/Desktop/Spubble/Classes/FoodViewController.m309538531#309538531#0(0"0(0#0#57"/Users/Varun/Desktop/Spubble/Classes/FoodViewController.m8617110432#1840"    cd /Users/Varun/Desktop/Spubble    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-generated-files.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-own-target-headers.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-all-target-headers.hmap -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-project-headers.hmap -F/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator -I/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/include -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources/i386 -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources -include /var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch -c /Users/Varun/Desktop/Spubble/Classes/FoodViewController.m -o /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/FoodViewController.o0#
+
+CCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SportsViewController.o /Users/Varun/Desktop/Spubble/Classes/SportsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309546507.792968
+e309546507.873208
+r1
+xCompileC
+xbuild/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SportsViewController.o
+x/Users/Varun/Desktop/Spubble/Classes/SportsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Varun/Desktop/Spubble/Classes/SportsViewController.m309546507#309546507#0(0"0(0#0#59"/Users/Varun/Desktop/Spubble/Classes/SportsViewController.m8615695904#1844"    cd /Users/Varun/Desktop/Spubble    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-generated-files.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-own-target-headers.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-all-target-headers.hmap -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-project-headers.hmap -F/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator -I/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/include -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources/i386 -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources -include /var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch -c /Users/Varun/Desktop/Spubble/Classes/SportsViewController.m -o /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SportsViewController.o0#
+
+CCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SpubbleAppDelegate.o /Users/Varun/Desktop/Spubble/Classes/SpubbleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309578978.069718
+e309578978.160733
+r1
+xCompileC
+xbuild/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SpubbleAppDelegate.o
+x/Users/Varun/Desktop/Spubble/Classes/SpubbleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Varun/Desktop/Spubble/Classes/SpubbleAppDelegate.m309578978#309578978#0(0"0(0#0#57"/Users/Varun/Desktop/Spubble/Classes/SpubbleAppDelegate.m8628561568#1840"    cd /Users/Varun/Desktop/Spubble    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-generated-files.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-own-target-headers.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-all-target-headers.hmap -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-project-headers.hmap -F/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator -I/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/include -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources/i386 -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources -include /var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch -c /Users/Varun/Desktop/Spubble/Classes/SpubbleAppDelegate.m -o /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SpubbleAppDelegate.o0#
+
+CCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SpubbleViewController.o /Users/Varun/Desktop/Spubble/Classes/SpubbleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309578978.136084
+e309578978.207249
+r1
+xCompileC
+xbuild/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SpubbleViewController.o
+x/Users/Varun/Desktop/Spubble/Classes/SpubbleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Varun/Desktop/Spubble/Classes/SpubbleViewController.m309578978#309578978#0(0"0(0#0#60"/Users/Varun/Desktop/Spubble/Classes/SpubbleViewController.m8619424064#1846"    cd /Users/Varun/Desktop/Spubble    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-generated-files.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-own-target-headers.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-all-target-headers.hmap -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-project-headers.hmap -F/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator -I/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/include -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources/i386 -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources -include /var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch -c /Users/Varun/Desktop/Spubble/Classes/SpubbleViewController.m -o /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/SpubbleViewController.o0#
+
+CCompileC build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/main.o /Users/Varun/Desktop/Spubble/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309578978.068359
+e309578978.135974
+r1
+xCompileC
+xbuild/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/main.o
+x/Users/Varun/Desktop/Spubble/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/Varun/Desktop/Spubble/main.m309578978#309578978#0(0"0(0#0#35"/Users/Varun/Desktop/Spubble/main.m8637474592#1804"    cd /Users/Varun/Desktop/Spubble    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-generated-files.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-own-target-headers.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-all-target-headers.hmap -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-project-headers.hmap -F/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator -I/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/include -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources/i386 -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources -include /var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch -c /Users/Varun/Desktop/Spubble/main.m -o /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Varun/Desktop/Spubble/ChildView.xib
+r0
+
+CCompileXIB /Users/Varun/Desktop/Spubble/Classes/DragnDropView.xib
+s309571856.575309
+e309571857.051811
+r1
+xCompileXIB
+x/Users/Varun/Desktop/Spubble/Classes/DragnDropView.xib
+lSLF07#2@36"CompileXIB Classes/DragnDropView.xib309571856#309571857#0(0"0(0#0#54"/Users/Varun/Desktop/Spubble/Classes/DragnDropView.xib8624716160#554"    cd /Users/Varun/Desktop/Spubble    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/DragnDropView.nib /Users/Varun/Desktop/Spubble/Classes/DragnDropView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/Varun/Desktop/Spubble/Classes/SportsView.xib
+s309504774.646406
+e309504775.196965
+r1
+xCompileXIB
+x/Users/Varun/Desktop/Spubble/Classes/SportsView.xib
+lSLF07#2@33"CompileXIB Classes/SportsView.xib309504774#309504775#0(0"0(0#0#51"/Users/Varun/Desktop/Spubble/Classes/SportsView.xib8605388256#548"    cd /Users/Varun/Desktop/Spubble    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/SportsView.nib /Users/Varun/Desktop/Spubble/Classes/SportsView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/Varun/Desktop/Spubble/DragnDropView.xib
+s309546507.239690
+e309546507.792529
+r1
+xCompileXIB
+x/Users/Varun/Desktop/Spubble/DragnDropView.xib
+lSLF07#2@28"CompileXIB DragnDropView.xib309546507#309546507#0(0"0(0#0#46"/Users/Varun/Desktop/Spubble/DragnDropView.xib8615741312#546"    cd /Users/Varun/Desktop/Spubble    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/DragnDropView.nib /Users/Varun/Desktop/Spubble/DragnDropView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/Varun/Desktop/Spubble/FoodView.xib
+s309504774.666179
+e309504775.199049
+r1
+xCompileXIB
+x/Users/Varun/Desktop/Spubble/FoodView.xib
+lSLF07#2@23"CompileXIB FoodView.xib309504774#309504775#0(0"0(0#0#41"/Users/Varun/Desktop/Spubble/FoodView.xib8617676480#536"    cd /Users/Varun/Desktop/Spubble    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/FoodView.nib /Users/Varun/Desktop/Spubble/FoodView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/Varun/Desktop/Spubble/MainWindow.xib
+s309578975.282294
+e309578975.698356
+r1
+xCompileXIB
+x/Users/Varun/Desktop/Spubble/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309578975#309578975#0(0"0(0#0#43"/Users/Varun/Desktop/Spubble/MainWindow.xib8625274688#540"    cd /Users/Varun/Desktop/Spubble    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/MainWindow.nib /Users/Varun/Desktop/Spubble/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/Varun/Desktop/Spubble/SpubbleViewController.xib
+s309578975.283299
+e309578975.928758
+r1
+xCompileXIB
+x/Users/Varun/Desktop/Spubble/SpubbleViewController.xib
+lSLF07#2@36"CompileXIB SpubbleViewController.xib309578975#309578975#0(0"0(0#0#54"/Users/Varun/Desktop/Spubble/SpubbleViewController.xib8624714976#562"    cd /Users/Varun/Desktop/Spubble    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/SpubbleViewController.nib /Users/Varun/Desktop/Spubble/SpubbleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/Spubble.app/App Store.png" "App Store.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/Spubble.app/Dinner Dash.png" "Dinner Dash.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/Spubble.app/Five Dice.png" "Five Dice.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/Spubble.app/Monkey Ball.png" "Monkey Ball.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/Spubble.app/SB 2 Lite.png" "SB 2 Lite.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/Spubble.app/Soccer 09.png" "Soccer 09.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/Spubble.app/Star War.png" "Star War.png"
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/.png .png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Alphabets.png Alphabets.png
+s309578975.731185
+e309578975.743393
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Alphabets.png
+xAlphabets.png
+lSLF07#2@18"Copy Alphabets.png309578975#309578975#0(0"0(0#0#42"/Users/Varun/Desktop/Spubble/Alphabets.png8615228224#427"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Alphabets.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Animals.png Animals.png
+s309578975.723802
+e309578975.743185
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Animals.png
+xAnimals.png
+lSLF07#2@16"Copy Animals.png309578975#309578975#0(0"0(0#0#40"/Users/Varun/Desktop/Spubble/Animals.png8616204288#425"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Animals.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Articles.png Articles.png
+s309578975.718107
+e309578975.742915
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Articles.png
+xArticles.png
+lSLF07#2@17"Copy Articles.png309578975#309578975#0(0"0(0#0#41"/Users/Varun/Desktop/Spubble/Articles.png8617075232#426"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Articles.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Default.png Default.png
+s309578975.699833
+e309578975.717031
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png309578975#309578975#0(0"0(0#0#40"/Users/Varun/Desktop/Spubble/Default.png8638287072#425"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Default.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Defauly.png Defauly.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Entertainment.png Entertainment.png
+s309578975.744779
+e309578975.783895
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Entertainment.png
+xEntertainment.png
+lSLF07#2@22"Copy Entertainment.png309578975#309578975#0(0"0(0#0#46"/Users/Varun/Desktop/Spubble/Entertainment.png8612609440#431"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Entertainment.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Evernote.png Evernote.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Food.png Food.png
+s309578975.711177
+e309578975.744528
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Food.png
+xFood.png
+lSLF07#2@13"Copy Food.png309578975#309578975#0(0"0(0#0#37"/Users/Varun/Desktop/Spubble/Food.png8618192896#422"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Food.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Fruits.png Fruits.png
+s309578975.769539
+e309578975.784345
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Fruits.png
+xFruits.png
+lSLF07#2@15"Copy Fruits.png309578975#309578975#0(0"0(0#0#39"/Users/Varun/Desktop/Spubble/Fruits.png8623332192#424"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Fruits.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Gadgets.png Gadgets.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Games.png Games.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Genesis4iphone.png Genesis4iphone.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Health.png Health.png
+s309578975.715927
+e309578975.744703
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Health.png
+xHealth.png
+lSLF07#2@15"Copy Health.png309578975#309578975#0(0"0(0#0#39"/Users/Varun/Desktop/Spubble/Health.png8617281696#424"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Health.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Installer.png Installer.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Music.png Music.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Places.png Places.png
+s309578975.717496
+e309578975.742780
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Places.png
+xPlaces.png
+lSLF07#2@15"Copy Places.png309578975#309578975#0(0"0(0#0#39"/Users/Varun/Desktop/Spubble/Places.png8617127328#424"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Places.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Prepositions.png Prepositions.png
+s309578975.718675
+e309578975.743081
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Prepositions.png
+xPrepositions.png
+lSLF07#2@21"Copy Prepositions.png309578975#309578975#0(0"0(0#0#45"/Users/Varun/Desktop/Spubble/Prepositions.png8616869152#430"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Prepositions.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Pronouns.png Pronouns.png
+s309578975.749760
+e309578975.784131
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Pronouns.png
+xPronouns.png
+lSLF07#2@17"Copy Pronouns.png309578975#309578975#0(0"0(0#0#41"/Users/Varun/Desktop/Spubble/Pronouns.png8612112960#426"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Pronouns.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Pronouns1.png Pronouns1.png
+s309578975.778663
+e309578975.790624
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Pronouns1.png
+xPronouns1.png
+lSLF07#2@18"Copy Pronouns1.png309578975#309578975#0(0"0(0#0#42"/Users/Varun/Desktop/Spubble/Pronouns1.png8642526496#427"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Pronouns1.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Pronouns2.png Pronouns2.png
+s309578975.771925
+e309578975.784452
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Pronouns2.png
+xPronouns2.png
+lSLF07#2@18"Copy Pronouns2.png309578975#309578975#0(0"0(0#0#42"/Users/Varun/Desktop/Spubble/Pronouns2.png8620486400#427"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Pronouns2.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Romance.png Romance.png
+s309578975.746651
+e309578975.784023
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Romance.png
+xRomance.png
+lSLF07#2@16"Copy Romance.png309578975#309578975#0(0"0(0#0#40"/Users/Varun/Desktop/Spubble/Romance.png8612242240#425"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Romance.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Safari.png Safari.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Shapes.png Shapes.png
+s309578975.729287
+e309578975.743288
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Shapes.png
+xShapes.png
+lSLF07#2@15"Copy Shapes.png309578975#309578975#0(0"0(0#0#39"/Users/Varun/Desktop/Spubble/Shapes.png8615887584#424"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Shapes.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Splash.png Splash.png
+s309566575.402602
+e309566575.409377
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Splash.png
+xSplash.png
+lSLF07#2@15"Copy Splash.png309566575#309566575#0(0"0(0#0#39"/Users/Varun/Desktop/Spubble/Splash.png8615512064#424"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Splash.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Sports.png Sports.png
+s309578975.737282
+e309578975.786534
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Sports.png
+xSports.png
+lSLF07#2@15"Copy Sports.png309578975#309578975#0(0"0(0#0#39"/Users/Varun/Desktop/Spubble/Sports.png8615034048#424"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Sports.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Toys.png Toys.png
+s309578975.776802
+e309578975.786646
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Toys.png
+xToys.png
+lSLF07#2@13"Copy Toys.png309578975#309578975#0(0"0(0#0#37"/Users/Varun/Desktop/Spubble/Toys.png8647718464#422"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Toys.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/Vegetables.png Vegetables.png
+s309578975.755629
+e309578975.784238
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/Vegetables.png
+xVegetables.png
+lSLF07#2@19"Copy Vegetables.png309578975#309578975#0(0"0(0#0#43"/Users/Varun/Desktop/Spubble/Vegetables.png8639335264#428"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/Vegetables.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/baseball-glove-600.gif baseball-glove-600.gif
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/baseball-glove-600.png baseball-glove-600.png
+s309500409.907543
+e309500409.916852
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/baseball-glove-600.png
+xbaseball-glove-600.png
+lSLF07#2@27"Copy baseball-glove-600.png309500409#309500409#0(0"0(0#0#51"/Users/Varun/Desktop/Spubble/baseball-glove-600.png8617187776#436"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/baseball-glove-600.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/food2.jpeg food2.jpeg
+s309495241.814553
+e309495241.819515
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/food2.jpeg
+xfood2.jpeg
+lSLF07#2@15"Copy food2.jpeg309495241#309495241#0(0"0(0#0#39"/Users/Varun/Desktop/Spubble/food2.jpeg8612202912#424"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/food2.jpeg /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/fring.png fring.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/iQuran.png iQuran.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/imgres.jpeg imgres.jpeg
+s309495241.813736
+e309495241.819310
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/imgres.jpeg
+ximgres.jpeg
+lSLF07#2@16"Copy imgres.jpeg309495241#309495241#0(0"0(0#0#40"/Users/Varun/Desktop/Spubble/imgres.jpeg8612441472#425"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/imgres.jpeg /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/muffin1.png muffin1.png
+s309500409.906795
+e309500409.919337
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/muffin1.png
+xmuffin1.png
+lSLF07#2@16"Copy muffin1.png309500409#309500409#0(0"0(0#0#40"/Users/Varun/Desktop/Spubble/muffin1.png8617442368#425"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/muffin1.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/spubble_fake_icon_bigwheel.png spubble_fake_icon_bigwheel.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/spubble_fake_icon_i_want.png spubble_fake_icon_i_want.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/spubble_homebutton.png spubble_homebutton.png
+s309578975.706984
+e309578975.717432
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/spubble_homebutton.png
+xspubble_homebutton.png
+lSLF07#2@27"Copy spubble_homebutton.png309578975#309578975#0(0"0(0#0#51"/Users/Varun/Desktop/Spubble/spubble_homebutton.png8620560096#436"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/spubble_homebutton.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/spubble_icon_curtain.png spubble_icon_curtain.png
+s309578975.701033
+e309578975.717233
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/spubble_icon_curtain.png
+xspubble_icon_curtain.png
+lSLF07#2@29"Copy spubble_icon_curtain.png309578975#309578975#0(0"0(0#0#53"/Users/Varun/Desktop/Spubble/spubble_icon_curtain.png8637038176#438"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/spubble_icon_curtain.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/spubble_icon_curtain2.png spubble_icon_curtain2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/spubble_name.png spubble_name.png
+s309578975.701635
+e309578975.717335
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/spubble_name.png
+xspubble_name.png
+lSLF07#2@21"Copy spubble_name.png309578975#309578975#0(0"0(0#0#45"/Users/Varun/Desktop/Spubble/spubble_name.png8634776576#430"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/spubble_name.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/spubble_playbutton.png spubble_playbutton.png
+s309578975.699177
+e309578975.716930
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/spubble_playbutton.png
+xspubble_playbutton.png
+lSLF07#2@27"Copy spubble_playbutton.png309578975#309578975#0(0"0(0#0#51"/Users/Varun/Desktop/Spubble/spubble_playbutton.png8639987264#436"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/spubble_playbutton.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/spubble_speech_balloon.png spubble_speech_balloon.png
+s309578975.698449
+e309578975.716816
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/spubble_speech_balloon.png
+xspubble_speech_balloon.png
+lSLF07#2@31"Copy spubble_speech_balloon.png309578975#309578975#0(0"0(0#0#55"/Users/Varun/Desktop/Spubble/spubble_speech_balloon.png8641463104#440"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/spubble_speech_balloon.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CCpResource build/Debug-iphonesimulator/Spubble.app/spubble_top_half.png spubble_top_half.png
+s309578975.700429
+e309578975.717131
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Spubble.app/spubble_top_half.png
+xspubble_top_half.png
+lSLF07#2@25"Copy spubble_top_half.png309578975#309578975#0(0"0(0#0#49"/Users/Varun/Desktop/Spubble/spubble_top_half.png8637579776#434"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Varun/Desktop/Spubble/spubble_top_half.png /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
+CGenerateDSYMFile /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app.dSYM /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble
+s309578978.232522
+e309578978.247840
+r1
+xGenerateDSYMFile
+x/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app.dSYM
+x/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Spubble.app.dSYM build/Debug-iphonesimulator/Spubble.app/Spubble309578978#309578978#0(0"0(0#0#76"/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble8612186816#353"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble -o /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app.dSYM0#
+
+CLd /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble normal i386
+s309578978.207337
+e309578978.232417
+r1
+xLd
+x/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble
+xnormal
+xi386
+lSLF07#2@81"Link /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble309578978#309578978#0(0"0(0#0#0"8614878976#850"    cd /Users/Varun/Desktop/Spubble    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator -F/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator -filelist /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Objects-normal/i386/Spubble.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Spubble0#
+
+CProcessInfoPlistFile /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Info.plist Spubble-Info.plist
+s309578975.271998
+e309578975.282200
+r1
+xProcessInfoPlistFile
+x/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Info.plist
+xSpubble-Info.plist
+lSLF07#2@26"Process Spubble-Info.plist309578975#309578975#0(0"0(0#0#47"/Users/Varun/Desktop/Spubble/Spubble-Info.plist8632771424#449"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Spubble-Info.plist -genpkginfo /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app/Info.plist0#
+
+CProcessPCH /var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch.gch Spubble_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309578975.928889
+e309578978.067814
+r1
+xProcessPCH
+x/var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch.gch
+xSpubble_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Spubble_Prefix.pch309578975#309578978#0(0"0(0#0#47"/Users/Varun/Desktop/Spubble/Spubble_Prefix.pch8627150656#1706"    cd /Users/Varun/Desktop/Spubble    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-generated-files.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-own-target-headers.hmap -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-all-target-headers.hmap -iquote /Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/Spubble-project-headers.hmap -F/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator -I/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/include -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources/i386 -I/Users/Varun/Desktop/Spubble/build/Spubble.build/Debug-iphonesimulator/Spubble.build/DerivedSources -c /Users/Varun/Desktop/Spubble/Spubble_Prefix.pch -o /var/folders/YO/YOg3l00QEGO5X6T4VDIiEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spubble_Prefix-ahpjhbojwxbmvudpjbvjiynbwvit/Spubble_Prefix.pch.gch0#
+
+CTouch /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app
+s309578978.247930
+e309578978.251863
+r1
+xTouch
+x/Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app
+lSLF07#2@74"Touch /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app309578978#309578978#0(0"0(0#0#0"8620276512#258"    cd /Users/Varun/Desktop/Spubble    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Varun/Desktop/Spubble/build/Debug-iphonesimulator/Spubble.app0#
+
